@@ -1,0 +1,15 @@
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/obj/Debug/net7.0/ZamazonDelivery.csproj.AssemblyReference.cache
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/obj/Debug/net7.0/ZamazonDelivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/obj/Debug/net7.0/ZamazonDelivery.AssemblyInfoInputs.cache
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/obj/Debug/net7.0/ZamazonDelivery.AssemblyInfo.cs
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/obj/Debug/net7.0/ZamazonDelivery.csproj.CoreCompileInputs.cache
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/bin/Debug/net7.0/ZamazonDelivery
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/bin/Debug/net7.0/ZamazonDelivery.deps.json
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/bin/Debug/net7.0/ZamazonDelivery.runtimeconfig.json
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/bin/Debug/net7.0/ZamazonDelivery.dll
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/bin/Debug/net7.0/ZamazonDelivery.pdb
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/obj/Debug/net7.0/ZamazonDelivery.dll
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/obj/Debug/net7.0/refint/ZamazonDelivery.dll
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/obj/Debug/net7.0/ZamazonDelivery.pdb
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/obj/Debug/net7.0/ZamazonDelivery.genruntimeconfig.cache
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/ZamazonDelivery/obj/Debug/net7.0/ref/ZamazonDelivery.dll
