@@ -1,0 +1,15 @@
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/bin/Debug/net7.0/InsecureBank
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/bin/Debug/net7.0/InsecureBank.deps.json
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/bin/Debug/net7.0/InsecureBank.runtimeconfig.json
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/bin/Debug/net7.0/InsecureBank.dll
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/bin/Debug/net7.0/InsecureBank.pdb
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/Debug/net7.0/InsecureBank.csproj.AssemblyReference.cache
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/Debug/net7.0/InsecureBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/Debug/net7.0/InsecureBank.AssemblyInfoInputs.cache
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/Debug/net7.0/InsecureBank.AssemblyInfo.cs
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/Debug/net7.0/InsecureBank.csproj.CoreCompileInputs.cache
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/Debug/net7.0/InsecureBank.dll
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/Debug/net7.0/refint/InsecureBank.dll
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/Debug/net7.0/InsecureBank.pdb
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/Debug/net7.0/InsecureBank.genruntimeconfig.cache
+/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/Debug/net7.0/ref/InsecureBank.dll
