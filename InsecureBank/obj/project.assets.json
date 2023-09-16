@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/InsecureBank.csproj",
+      "projectUniqueName": "/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/InsecureBank/InsecureBank.csproj",
       "projectName": "InsecureBank",
-      "projectPath": "/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/InsecureBank.csproj",
+      "projectPath": "/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/InsecureBank/InsecureBank.csproj",
       "packagesPath": "/Users/alofdean/.nuget/packages/",
-      "outputPath": "/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Part_1/InsecureBank/obj/",
+      "outputPath": "/Users/alofdean/Desktop/YetgenJump_Akbank_.Net/Backend_Lecture_Materials/Lecture_1/Week_1/InsecureBank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alofdean/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 
 namespace Lecture_1.Part_1.InsecureBank;
 class Program
@@ -65,26 +66,33 @@ class Program
     {
         Console.Write("Enter your name: ");
         string ownerName = Console.ReadLine();
-        int temp;
-        if (!char.IsLetter(ownerName[0]))
+        var count = ownerName.Count(char.IsLetter);
+
+        if (count > 0)
         {
-            Console.WriteLine("Please enter your name correct!");
-        }
-        else
-        {
-            if (accountOwners.IndexOf(ownerName) != -1)
+            if (!char.IsLetter(ownerName[0]))
             {
-                Console.WriteLine("This user already created!");
+                Console.WriteLine("Please enter your name correct!");
             }
             else
             {
-                accountOwners.Add(ownerName);
-                accountBalances.Add(0.0);
-                Console.WriteLine("Account created successfully!");
+                if (accountOwners.IndexOf(ownerName) != -1)
+                {
+                    Console.WriteLine("This user already created!");
+                }
+                else
+                {
+                    accountOwners.Add(ownerName);
+                    accountBalances.Add(0.0);
+                    Console.WriteLine("Account created successfully!");
+                }
             }
+
         }
-
-
+        else
+        {
+            Console.WriteLine("Please enter a name!");
+        }
 
     }
 
@@ -94,100 +102,114 @@ class Program
         string ownerName = Console.ReadLine();
         int index;
         double amount;
+        var count = ownerName.Count(char.IsLetter);
 
-
-        if (!char.IsLetter(ownerName[0]))
+        if (count > 0)
         {
-            Console.WriteLine("Please enter your name correct!");
-        }
-        else
-        {
-            if (accountOwners.IndexOf(ownerName) == -1)
+            if (!char.IsLetter(ownerName[0]))
             {
-                Console.Write("User can not found!");
+                Console.WriteLine("Please enter your name correct!");
             }
             else
             {
-                index = accountOwners.IndexOf(ownerName);
-                Console.Write("Enter the amount to deposit: ");
-
-                if (double.TryParse(Console.ReadLine(), out amount))
+                if (accountOwners.IndexOf(ownerName) == -1)
                 {
-                    if (0 < amount)
-                    {
-                        accountBalances[index] += amount;
-                        Console.WriteLine($"Deposited ${amount}. New balance: ${accountBalances[index]}");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Please deposit money more than 0");
-                    }
+                    Console.Write("User can not found!");
                 }
                 else
                 {
-                    Console.WriteLine("Please enter a number!");
+                    index = accountOwners.IndexOf(ownerName);
+                    Console.Write("Enter the amount to deposit: ");
+
+                    if (double.TryParse(Console.ReadLine(), out amount))
+                    {
+                        if (0 < amount)
+                        {
+                            accountBalances[index] += amount;
+                            Console.WriteLine($"Deposited ${amount}. New balance: ${accountBalances[index]}");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Please deposit money more than 0");
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("Please enter a number!");
+                    }
+
                 }
 
+
             }
-
-
         }
-
-
-
+        else
+        {
+            Console.WriteLine("Please enter a name!");
+        }
     }
 
     static void WithdrawMoney()
     {
         Console.Write("Enter your name: ");
         string ownerName = Console.ReadLine();
+        var count = ownerName.Count(char.IsLetter);
 
-        if (!char.IsLetter(ownerName[0]))
+        if (count > 0)
         {
-            Console.WriteLine("Please enter your name correct!");
-        }
-        else
-        {
-            if (accountOwners.IndexOf(ownerName) == -1)
+            if (!char.IsLetter(ownerName[0]))
             {
-                Console.Write("User can not found!");
+                Console.WriteLine("Please enter your name correct!");
             }
             else
             {
-                int index = accountOwners.IndexOf(ownerName);
-
-                Console.Write("Enter the amount to withdraw: ");
-
-
-                int amount;
-                bool choice_control = int.TryParse(Console.ReadLine(), out amount);
-                if (choice_control)
+                if (accountOwners.IndexOf(ownerName) == -1)
                 {
-                    if (amount > 0)
+                    Console.Write("User can not found!");
+                }
+                else
+                {
+                    int index = accountOwners.IndexOf(ownerName);
+
+                    Console.Write("Enter the amount to withdraw: ");
+
+
+                    int amount;
+                    bool choice_control = int.TryParse(Console.ReadLine(), out amount);
+                    if (choice_control)
                     {
-                        if (accountBalances[index] >= amount)
+                        if (amount > 0)
                         {
-                            accountBalances[index] -= amount;
-                            Console.WriteLine($"Withdrawn ${amount}. New balance: ${accountBalances[index]}");
+                            if (accountBalances[index] >= amount)
+                            {
+                                accountBalances[index] -= amount;
+                                Console.WriteLine($"Withdrawn ${amount}. New balance: ${accountBalances[index]}");
+                            }
+                            else
+                            {
+                                Console.WriteLine("Insufficient funds.");
+                            }
                         }
                         else
                         {
-                            Console.WriteLine("Insufficient funds.");
+                            Console.WriteLine("Amount can not be negative!");
                         }
                     }
                     else
                     {
-                        Console.WriteLine("Amount can not be negative!");
+                        Console.WriteLine("Please enter a number.");
                     }
+
                 }
-                else
-                {
-                    Console.WriteLine("Please enter a number.");
-                }
-                
+
             }
-            
         }
+        else
+        {
+            Console.WriteLine("Please enter a name!");
+        }
+
+        
      
     }
 
@@ -195,25 +217,34 @@ class Program
     {
         Console.Write("Enter your name: ");
         string ownerName = Console.ReadLine();
+        var count = ownerName.Count(char.IsLetter);
 
-
-        if (!char.IsLetter(ownerName[0]))
+        if (count > 0)
         {
-            Console.WriteLine("Please enter your name correct!");
-        }
-        else
-        {
-            if (accountOwners.IndexOf(ownerName) == -1)
+            if (!char.IsLetter(ownerName[0]))
             {
-                Console.Write("User can not found!");
+                Console.WriteLine("Please enter your name correct!");
             }
             else
             {
-                int index = accountOwners.IndexOf(ownerName);
+                if (accountOwners.IndexOf(ownerName) == -1)
+                {
+                    Console.Write("User can not found!");
+                }
+                else
+                {
+                    int index = accountOwners.IndexOf(ownerName);
 
-                Console.WriteLine($"Your balance is ${accountBalances[index]}");
+                    Console.WriteLine($"Your balance is ${accountBalances[index]}");
+                }
+
             }
+        }
 
+        else
+        {
+            Console.WriteLine("Please enter a name!");
         }
     }
+        
 }
