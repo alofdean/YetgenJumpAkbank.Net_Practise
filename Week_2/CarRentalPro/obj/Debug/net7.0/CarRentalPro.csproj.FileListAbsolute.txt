@@ -1,0 +1,15 @@
+/Users/alofdean/Desktop/CarRentalPro/bin/Debug/net7.0/CarRentalPro
+/Users/alofdean/Desktop/CarRentalPro/bin/Debug/net7.0/CarRentalPro.deps.json
+/Users/alofdean/Desktop/CarRentalPro/bin/Debug/net7.0/CarRentalPro.runtimeconfig.json
+/Users/alofdean/Desktop/CarRentalPro/bin/Debug/net7.0/CarRentalPro.dll
+/Users/alofdean/Desktop/CarRentalPro/bin/Debug/net7.0/CarRentalPro.pdb
+/Users/alofdean/Desktop/CarRentalPro/obj/Debug/net7.0/CarRentalPro.csproj.AssemblyReference.cache
+/Users/alofdean/Desktop/CarRentalPro/obj/Debug/net7.0/CarRentalPro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alofdean/Desktop/CarRentalPro/obj/Debug/net7.0/CarRentalPro.AssemblyInfoInputs.cache
+/Users/alofdean/Desktop/CarRentalPro/obj/Debug/net7.0/CarRentalPro.AssemblyInfo.cs
+/Users/alofdean/Desktop/CarRentalPro/obj/Debug/net7.0/CarRentalPro.csproj.CoreCompileInputs.cache
+/Users/alofdean/Desktop/CarRentalPro/obj/Debug/net7.0/CarRentalPro.dll
+/Users/alofdean/Desktop/CarRentalPro/obj/Debug/net7.0/refint/CarRentalPro.dll
+/Users/alofdean/Desktop/CarRentalPro/obj/Debug/net7.0/CarRentalPro.pdb
+/Users/alofdean/Desktop/CarRentalPro/obj/Debug/net7.0/CarRentalPro.genruntimeconfig.cache
+/Users/alofdean/Desktop/CarRentalPro/obj/Debug/net7.0/ref/CarRentalPro.dll
