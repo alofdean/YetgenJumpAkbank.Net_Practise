@@ -1,0 +1,15 @@
+/Users/alofdean/Projects/spotify_clone/spotify_clone/bin/Debug/net7.0/spotify_clone
+/Users/alofdean/Projects/spotify_clone/spotify_clone/bin/Debug/net7.0/spotify_clone.deps.json
+/Users/alofdean/Projects/spotify_clone/spotify_clone/bin/Debug/net7.0/spotify_clone.runtimeconfig.json
+/Users/alofdean/Projects/spotify_clone/spotify_clone/bin/Debug/net7.0/spotify_clone.dll
+/Users/alofdean/Projects/spotify_clone/spotify_clone/bin/Debug/net7.0/spotify_clone.pdb
+/Users/alofdean/Projects/spotify_clone/spotify_clone/obj/Debug/net7.0/spotify_clone.csproj.AssemblyReference.cache
+/Users/alofdean/Projects/spotify_clone/spotify_clone/obj/Debug/net7.0/spotify_clone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alofdean/Projects/spotify_clone/spotify_clone/obj/Debug/net7.0/spotify_clone.AssemblyInfoInputs.cache
+/Users/alofdean/Projects/spotify_clone/spotify_clone/obj/Debug/net7.0/spotify_clone.AssemblyInfo.cs
+/Users/alofdean/Projects/spotify_clone/spotify_clone/obj/Debug/net7.0/spotify_clone.csproj.CoreCompileInputs.cache
+/Users/alofdean/Projects/spotify_clone/spotify_clone/obj/Debug/net7.0/spotify_clone.dll
+/Users/alofdean/Projects/spotify_clone/spotify_clone/obj/Debug/net7.0/refint/spotify_clone.dll
+/Users/alofdean/Projects/spotify_clone/spotify_clone/obj/Debug/net7.0/spotify_clone.pdb
+/Users/alofdean/Projects/spotify_clone/spotify_clone/obj/Debug/net7.0/spotify_clone.genruntimeconfig.cache
+/Users/alofdean/Projects/spotify_clone/spotify_clone/obj/Debug/net7.0/ref/spotify_clone.dll
